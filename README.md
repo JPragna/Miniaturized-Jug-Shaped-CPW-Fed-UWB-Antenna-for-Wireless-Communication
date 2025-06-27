@@ -27,14 +27,15 @@ This project presents the design, simulation, and evaluation of a **jug-shaped C
 
 | Type          | Image |
 |---------------|-------|
-| Design Steps  | ![Design](images/design_steps.png) |
-| Return Loss   | ![S11](images/simulation_s11.png) |
-| Gain Plot     | ![Gain](images/gain_plot.png) |
-| VSWR          | ![VSWR](images/vswr_plot.png) |
-| Far Field     | ![FarField](images/far_field_3d.png) |
-| Polar Plot    | ![Polar](images/polar_plot.png) |
-| Fabrication   | ![Fab](images/fabricated_antenna.jpg) |
-| Measurement   | ![Setup](images/measurement_setup.jpg) |
+| Design Steps  | 
+| Return Loss   | 
+| Gain Plot     | 
+| VSWR          |
+| Far Field     | 
+| Polar Plot    |
+| Fabrication   | 
+| Measurement   | 
+in allFigure 
 
 ## 🧠 Key Takeaways
 - The jug-shaped design achieved wideband performance in a compact form.
